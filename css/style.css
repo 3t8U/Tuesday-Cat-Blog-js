@@ -1,0 +1,32 @@
+h1 {
+  font-style: oblique;
+  text-align: center;
+  color: greem;
+}
+
+img {
+  height: auto;
+  width: 200px;
+}
+
+h2 {
+  font-family: fantasy;
+  text-shadow: 40px;
+  font-size: 20px;
+}
+
+p {
+  font-family: monospace;
+  color: blue;
+  line-height: 40px;
+}
+
+ul {
+  font-style: oblique;
+  color: blue;
+  font-family: cursive;
+  line-height: 50px
+}
+body {
+  background-color: #ff0044;
+}
